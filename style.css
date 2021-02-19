@@ -347,6 +347,13 @@ section {
     justify-content: center;
     text-align: center;
 }
+.box {
+    width: 120px;
+    height: 120px;
+    background: black;
+    flex-direction: row;
+}
+
 
 .sci {
     font-size: 40px;
