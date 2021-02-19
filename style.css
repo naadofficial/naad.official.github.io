@@ -347,12 +347,7 @@ section {
     justify-content: center;
     text-align: center;
 }
-.box {
-    width: 120px;
-    height: 120px;
-    background: black;
-    flex-direction: row;
-}
+
 
 
 .sci {
@@ -722,8 +717,10 @@ section {
     }
 
     .col-xs-12 {
-        width: 100%;
+        width: 50%;
+        margin-bottom: -10%;
         padding-left: auto;
+        flex-direction: row;
     }
 
     .h-xs {
